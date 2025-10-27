@@ -3,46 +3,24 @@
 <!-- ===================================================== -->
 
 <!-- ===================================================== -->
-<!-- 🔍 Structured Data for Google Knowledge Graph -->
+<!-- 🔍 SEO: Multilingual Keywords for Google Knowledge Graph -->
 <!-- ===================================================== -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Tawana Mohammadi",
-  "alternateName": "توانا محمدی",
-  "jobTitle": "AI Researcher, Data Strategist, Educator",
-  "url": "https://tawana.online",
-  "image": "https://raw.githubusercontent.com/TAwR00T/TAwR00T/main/A_logo_design_set_against_a_dark_background_showca.png",
-  "email": "info@tawana.online",
-  "sameAs": [
-    "https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en",
-    "https://orcid.org/0009-0009-8106-5917",
-    "https://tawanamohammadi.medium.com/",
-    "https://github.com/TAwR00T"
-  ],
-  "description": "Tawana Mohammadi (توانا محمدی) — AI researcher and data strategist focused on ethics, transparency, and education in artificial intelligence."
-}
-</script>
-
-<!-- SEO Keywords -->
-<!--
-Tawana Mohammadi, توانا محمدی, AI Researcher, پژوهشگر هوش مصنوعی, Data Strategist, Educator, Researcher, Machine Learning, AI Ethics, Prompt Engineering, Data Transparency, Responsible AI, tawana.online, Tawana Mohammad AI Profile
+<!-- 
+Tawana Mohammadi, توانا محمدی, AI Researcher, Data Strategist, Educator, 
+پژوهشگر هوش مصنوعی, آموزش هوش مصنوعی, استراتژیست داده, Harvard University, 
+AI Ethics, Prompt Engineering, Data Transparency, Responsible AI, 
+Tawana Mohammadi Portfolio, tawana.online, Academic Researcher
 -->
 
-<!-- HERO SECTION -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001a33,100:00bfff&text=Tawana%20Mohammadi&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=AI%20Researcher%20•%20Data%20Strategist%20•%20Educator&descAlign=50&descAlignY=70&animation=fadeIn" alt="Tawana Mohammadi | توانا محمدی - AI Researcher, Data Strategist, Educator"/>
-</p>
-
-<!-- PROFILE IMAGE -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" alt="Tawana Mohammadi | توانا محمدی Profile Photo" width="160" style="border-radius:50%;box-shadow:0 0 25px #00bfff;"/>
+  <img src="https://raw.githubusercontent.com/TAwR00T/TAwR00T/main/A_portfolio-style_GitHub_repository_README_page_fo.png" 
+       alt="Tawana Mohammadi | توانا محمدی - AI Researcher, Data Strategist, Educator" width="100%" />
 </p>
 
 <h1 align="center">Tawana Mohammadi | <span dir="rtl">توانا محمدی</span></h1>
 <p align="center">
-  <em>Where Ethics Meets Intelligence — پژوهشگر هوش مصنوعی و استراتژیست داده</em>
+  <em>AI Researcher • Data Strategist • Educator | پژوهشگر و مدرس هوش مصنوعی</em>
 </p>
 
 ---
@@ -53,7 +31,7 @@ Tawana Mohammadi, توانا محمدی, AI Researcher, پژوهشگر هوش م
   <a href="#network"><img alt="Network" src="https://img.shields.io/badge/Network-002b55?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
   <a href="#skills"><img alt="Skills" src="https://img.shields.io/badge/Skills-003c80?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-004d99?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#analytics"><img alt="Analytics" src="https://img.shields.io/badge/Analytics-364fc7?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#analytics"><img alt="Analytics" src="https://img.shields.io/badge/Analytics-364fc7?style=for-the-badge&logo=apachespark&logoColor=white"></a>
   <a href="#vision"><img alt="Vision" src="https://img.shields.io/badge/Vision-5f3dc4?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="#contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-00bfff?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -62,13 +40,16 @@ Tawana Mohammadi, توانا محمدی, AI Researcher, پژوهشگر هوش م
 
 <h2 id="about">🧠 About Me | <span dir="rtl">درباره من</span></h2>
 
-I’m **Tawana Mohammadi (توانا محمدی)** — an **AI Researcher** and **Educator** working at the intersection of **ethics**, **intelligence**, and **data strategy**.  
-My mission is to make AI **transparent**, **human-centered**, and **educational** — empowering people through technology.
+<p>
+I'm <strong>Tawana Mohammadi (توانا محمدی)</strong> — an <strong>AI Researcher</strong> and <strong>Educator</strong> 
+working at the intersection of <strong>ethics</strong>, <strong>intelligence</strong>, and <strong>data strategy</strong>.  
+My mission: to make AI <strong>transparent</strong>, <strong>human-centered</strong>, and <strong>educational</strong> — empowering people through technology.
+</p>
 
 > 🎯 «جایی که اخلاق با هوش در هم می‌آمیزد.»
 
 - 🔬 Researching: ChatGPT systems, data transparency, prompt engineering  
-- 📚 Writing on: AI literacy, governance, responsible data design  
+- 📚 Writing on: AI literacy, governance, and responsible data design  
 - 🌍 Advocating: Open, accessible, and ethical AI  
 - 🏛️ Based at: [tawana.online](https://tawana.online)
 
@@ -87,7 +68,11 @@ My mission is to make AI **transparent**, **human-centered**, and **educational*
 
 <h2 id="skills">🧩 Skills & Tech Stack | <span dir="rtl">مهارت‌ها و فناوری‌ها</span></h2>
 <p align="center">
-  <img alt="Tech stack Tawana Mohammadi" src="https://skillicons.dev/icons?i=python,fastapi,flask,nextjs,git,github,docker,markdown,latex,sqlite,notion,vscode" />
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=python,fastapi,flask,nextjs,git,github,docker,markdown,latex,sqlite,notion,vscode" />
+</p>
+
+<p align="center">
+  <sub>Focus: AI systems, Data strategy, Ethical frameworks, and Education.</sub>
 </p>
 
 ---
@@ -99,15 +84,15 @@ My mission is to make AI **transparent**, **human-centered**, and **educational*
 <td>
 
 ### ChatGPT Business Backup Guide  
-Safe AI data preservation and governance frameworks.  
-💡 راهنمای پشتیبان‌گیری اخلاقی از داده‌های هوش مصنوعی.
+💾 Safe AI data preservation frameworks for enterprises.  
+📘 راهنمای اخلاقی پشتیبان‌گیری از داده‌های سازمانی در هوش مصنوعی.
 
 </td>
 <td>
 
 ### PromptCraft Framework  
-Educational toolkit for prompt engineering.  
-🧭 چارچوب آموزشی برای مهندسی پرامپت.
+🧭 Educational toolkit for transparent prompt engineering.  
+📚 جعبه‌ابزار آموزشی برای مهندسی پرامپت و طراحی مسئولانه.
 
 </td>
 </tr>
@@ -115,15 +100,15 @@ Educational toolkit for prompt engineering.
 <td>
 
 ### AI Transparency Docs  
-Policy templates and ethical AI design guides.  
-⚖️ اسناد شفافیت در طراحی هوش مصنوعی.
+⚖️ Ethical audit and governance templates for AI.  
+📑 الگوهای اخلاقی طراحی و شفافیت در هوش مصنوعی.
 
 </td>
 <td>
 
 ### PanbehNet AI Portal  
-Network-based transparency experiment.  
-🌐 پروژه شفافیت داده مبتنی بر شبکه.
+🌐 Data transparency experiment for AI literacy.  
+🔍 پرتال شفافیت داده‌ها برای آموزش عمومی هوش مصنوعی.
 
 </td>
 </tr>
@@ -132,9 +117,10 @@ Network-based transparency experiment.
 ---
 
 <h2 id="analytics">📊 GitHub Analytics | آمار گیت‌هاب</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAwR00T&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff&icon_color=00bfff" height="160px" alt="GitHub stats Tawana Mohammadi"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAwR00T&theme=tokyonight&hide_border=true" height="160px" alt="GitHub streak Tawana Mohammadi"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TAwR00T&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff&icon_color=00bfff" height="160px" alt="GitHub Stats - Tawana Mohammadi"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAwR00T&theme=tokyonight&hide_border=true" height="160px" alt="GitHub Streak - Tawana Mohammadi"/>
 </p>
 
 ---
@@ -150,8 +136,7 @@ Through responsible design and education, I aim to make AI a **bridge**, not a *
 
 <h2 id="contact">📬 Contact | <span dir="rtl">ارتباط با من</span></h2>
 <p align="center">
-🌐 <a href="https://tawana.online">https://tawana.online</a>  
-<br/>
+🌐 <a href="https://tawana.online">https://tawana.online</a><br/>
 📧 <a href="mailto:info@tawana.online">info@tawana.online</a>
 </p>
 
@@ -159,7 +144,7 @@ Through responsible design and education, I aim to make AI a **bridge**, not a *
 
 <h2 align="center">🪶 Signature | <span dir="rtl">امضا</span></h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TAwR00T/TAwR00T/main/A_logo_design_set_against_a_dark_background_showca.png" width="150" alt="TM Neon Logo Tawana Mohammadi توانا محمدی"/>
+  <img src="https://raw.githubusercontent.com/TAwR00T/TAwR00T/main/A_logo_design_set_against_a_dark_background_showca.png" width="130" alt="TM Neon Logo Tawana Mohammadi توانا محمدی"/>
 </p>
 
 <p align="center">
