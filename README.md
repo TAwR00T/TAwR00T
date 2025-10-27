@@ -1,128 +1,161 @@
-<!-- =================== -->
-<!--  TAWANA MOHAMMADI  -->
-<!--  Modern, Research-Site Style GitHub Profile README -->
-<!-- =================== -->
+<!-- ===================================================== -->
+<!-- 🌌 TAWANA MOHAMMADI — GITHUB PROFILE (Neo-Futuristic) -->
+<!-- ===================================================== -->
 
+<!-- HERO / BANNER -->
 <p align="center">
-  <img alt="hero" src="https://capsule-render.vercel.app/api?type=wavy&color=0:001F3F,100:00BFFF&height=160&section=header&text=Tawana%20Mohammadi%20🚀&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img alt="Tawana Mohammadi — AI Researcher, Data Strategist, Educator"
+       src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001a33,100:00bfff&text=Tawana%20Mohammadi&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=AI%20Researcher%20•%20Data%20Strategist%20•%20Educator&descAlign=50&descAlignY=70&animation=fadeIn" />
 </p>
 
-<h1 align="center">🚀 Tawana Mohammadi</h1>
-<p align="center"><strong>Cybersecurity Specialist • AI Researcher • Full‑Stack Engineer • Tech Activist</strong></p>
-<p align="center"><em>Where Ethics Meets Intelligence — طراحی مدرن و پژوهشی</em></p>
+<h1 align="center">Tawana Mohammadi — AI Researcher, Data Strategist & Educator</h1>
+<p align="center">
+  <em>Where Ethics Meets Intelligence — Transparent, human-centered AI for real-world impact.</em>
+</p>
+
+<!-- QUICK NAV -->
+<p align="center">
+  <a href="#about"><img alt="About" src="https://img.shields.io/badge/About-0a2540?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <a href="#network"><img alt="Academic Network" src="https://img.shields.io/badge/Network-004d80?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="#skills"><img alt="Skills" src="https://img.shields.io/badge/Skills-0b7285?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-006d77?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#analytics"><img alt="Analytics" src="https://img.shields.io/badge/Analytics-364fc7?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#achievements"><img alt="Achievements" src="https://img.shields.io/badge/Achievements-2b8a3e?style=for-the-badge&logo=apachespark&logoColor=white"></a>
+  <a href="#vision"><img alt="Vision" src="https://img.shields.io/badge/Vision-5f3dc4?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
 
-<table width="100%" cellspacing="16">
-  <tr valign="top">
-    <!-- LEFT: profile card -->
-    <td width="33%">
-      <div align="center">
-        <img src="https://github.com/TAwR00T.png" alt="avatar" width="160" style="border-radius:16px;border:3px solid #e6f7ff"/>
-        <h3 style="margin:8px 0 4px;">تـاوانـا محمّدی</h3>
-        <p style="margin:0;color:#6b7280">TAwR00T · Cybersecurity & AI</p>
-      </div>
+<!-- ABOUT -->
+<h2 id="about">🧠 About Tawana Mohammadi</h2>
 
-      <p align="center" style="margin-top:10px;">
-        <img src="https://img.shields.io/badge/Sentient%20Nexus-Research-00bfff?style=for-the-badge" alt="Sentient Nexus"/>
-      </p>
+I’m <strong>Tawana Mohammadi</strong>, an <strong>AI Researcher</strong> and <strong>Educator</strong> working at the intersection of <strong>ethics</strong>, <strong>intelligence</strong>, and <strong>data strategy</strong>.  
+My mission is to make AI <strong>transparent</strong>, <strong>human-centered</strong>, and <strong>educational</strong> — empowering people through technology.
 
-      <h4>📡 کانال‌ها</h4>
-      <ul>
-        <li>وب‌سایت: <a href="https://tawana.online">tawana.online</a></li>
-        <li>Medium: <a href="https://tawanamohammadi.medium.com">tawanamohammadi.medium.com</a></li>
-        <li>Google Scholar: <a href="https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en">پروفایل</a></li>
-        <li>ORCID: <a href="https://orcid.org/0009-0009-8106-5917">0009-0009-8106-5917</a></li>
-        <li>Reddit: <a href="https://www.reddit.com/user/Chemical-Courage6849/">u/Chemical‑Courage6849</a></li>
-        <li>Telegram: <a href="https://t.me/rahbarusd">@rahbarusd</a></li>
-      </ul>
+- 🔬 <strong>Researching:</strong> ChatGPT systems, data transparency, prompt engineering  
+- 📚 <strong>Writing on:</strong> AI literacy, governance, responsible data design  
+- 🏗️ <strong>Building:</strong> frameworks that align AI ethics with innovation  
+- 🌍 <strong>Advocate for:</strong> open, accessible, and ethical AI
 
-      <p align="center">
-        <a href="mailto:info@tawana.online"><img src="https://img.shields.io/badge/Email-info@tawana.online-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-      </p>
+> “Where Ethics Meets Intelligence”
 
-      <div style="border-radius:12px;border:1px solid #e6eef8;padding:12px;background:linear-gradient(180deg,#ffffff,#fbfdff);">
-        <strong>🔭 در حال حاضر</strong>
-        <p style="margin:6px 0 0;">پژوهش: سیستم‌های ChatGPT، شفافیت داده، prompt engineering. مشارکت در Bug Bounty و CTF.</p>
-      </div>
-    </td>
+---
 
-    <!-- RIGHT: main -->
-    <td width="67%">
-      <h3>🧠 خلاصه</h3>
-      <p>پژوهشگر و توسعه‌دهندهٔ مستقل در مرزهای امنیت، هوش مصنوعی و اخلاق. ترکیبِ تحقیق، توسعه و آموزش برای ساخت سیستم‌های انسانی‌محور.</p>
+<!-- NETWORK -->
+<h2 id="network">🌐 Academic & Writing Network</h2>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en" rel="me nofollow">
+    <img alt="Google Scholar — Tawana Mohammadi" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0009-8106-5917" rel="me nofollow">
+    <img alt="ORCID — Tawana Mohammadi" src="https://img.shields.io/badge/ORCID-70B865?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="https://tawanamohammadi.medium.com/" rel="me nofollow">
+    <img alt="Medium — Tawana Mohammadi" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/user/Chemical-Courage6849/" rel="me nofollow">
+    <img alt="Reddit — Tawana Mohammadi" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+</p>
 
-      <h3>⚙️ تخصص‌ها</h3>
-      <table width="100%" style="border-collapse:collapse;">
-        <tr>
-          <td style="padding:6px;vertical-align:top;width:50%;">
-            <strong>🔐 امنیت</strong>
-            <ul>
-              <li>Penetration Testing · Intrusion Detection · Network Forensics</li>
-              <li>Threat Intel · OWASP</li>
-            </ul>
-          </td>
-          <td style="padding:6px;vertical-align:top;width:50%;">
-            <strong>💻 Full‑Stack</strong>
-            <ul>
-              <li>Frontend: React, Next.js · Backend: Python (Django/Flask), Node.js, PHP</li>
-              <li>DevOps: Docker · CI/CD</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td style="padding:6px;vertical-align:top;">
-            <strong>🧬 AI & Data</strong>
-            <ul><li>Deep Learning · Medical Imaging · NLP · MLOps</li></ul>
-          </td>
-          <td style="padding:6px;vertical-align:top;">
-            <strong>🛠 Hardware</strong>
-            <ul><li>IoT Security · Raspberry Pi · Embedded · JTAG/UART</li></ul>
-          </td>
-        </tr>
-      </table>
+---
 
-      <p align="center" style="margin-top:8px;">
-        <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,docker,git,github,flask,fastapi,postgres" alt="skills"/>
-      </p>
+<!-- SKILLS -->
+<h2 id="skills">🧩 Skills & Tech Stack</h2>
 
-      <h3>📚 پروژه‌های منتخب</h3>
-      <p>ریپوهای منتخب و پروژه‌های پژوهشی (برای پین‌شدن دقیق، نام ریپوها را بفرست):</p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=marz-warp&theme=vision-friendly-dark" alt="marz-warp"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=ChatGPT-Telegram-Bot&theme=vision-friendly-dark" alt="ChatGPT-Telegram-Bot"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=chatgpt5-mri-case-study&theme=vision-friendly-dark" alt="chatgpt5-mri-case-study"/>
-      </p>
+<!-- Glassmorphism cards -->
+<div align="center">
+  <img alt="Tech stack icons of Tawana Mohammadi" src="https://skillicons.dev/icons?i=python,fastapi,flask,nextjs,git,github,docker,markdown,latex,sqlite,notion,vscode" />
+</div>
 
-      <ul>
-        <li><strong>ChatGPT Business Backup Guide</strong> — محافظت و بایگانی امن مکالمات تجاری</li>
-        <li><strong>PromptCraft Framework</strong> — ابزار آموزشی طراحی پرامپت‌ها</li>
-        <li><strong>AI Transparency Docs</strong> — چارچوب‌های سیاست‌گذاری و شفافیت</li>
-      </ul>
+<p align="center">
+  <sub>Focus areas: AI systems, data strategy, documentation design, ethical frameworks, and education.</sub>
+</p>
 
-      <h3>📊 ویجت‌ها و آمار</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TAwR00T&show_icons=true&theme=vision-friendly-dark" width="48%" alt="GitHub stats"/>
-        &nbsp;
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAwR00T&theme=vision-friendly-dark" width="48%" alt="streak"/>
-      </p>
-      <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TAwR00T&theme=darkhub&no-frame=true" alt="trophies"/></p>
+---
 
-      <h3>🛡️ مسئولیت‌پذیری</h3>
-      <p>تمام تست‌های امنیتی تنها با مجوز کتبی انجام می‌شود. آسیب‌پذیری‌ها مطابق responsible disclosure گزارش خواهند شد. همکاری پژوهشی بر اساس MOU/قرارداد انجام می‌پذیرد.</p>
+<!-- PROJECTS -->
+<h2 id="projects">🧠 Research & Selected Projects</h2>
 
-      <div style="margin-top:12px;padding:12px;border-radius:10px;background:#f7fbff;border:1px solid #e6eef8">
-        <strong>آماده‌ام این README را برایت در شاخهٔ <code>readme/site-redesign</code> آپلود کنم.</strong>
-        <p style="margin:6px 0 0;">قبل از push لطفاً بفرست: ۱) فهرست ریپوهایی که می‌خواهی پین شوند ۲) لینک CV (اختیاری) ۳) آیا می‌خواهی آدرس ایمیل عمومی نمایش داده شود؟ (در این فایل ایمیل نمایش داده می‌شود)</p>
-      </div>
+<div align="center">
 
-    </td>
-  </tr>
+<!-- Project Cards -->
+<table>
+<tr>
+<td>
+  
+### ChatGPT Business Backup Guide  
+Safe, structured approaches to preserve AI-generated knowledge in organizations (governance + continuity).
+
+</td>
+<td>
+
+### PromptCraft Framework  
+An educational toolkit for teaching prompt engineering with transparency and measurable outcomes.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### AI Transparency Docs  
+Policy notes and templates for auditing AI systems with an ethics-first lens.
+
+</td>
+<td>
+
+### PanbehNet AI Portal  
+A network-based data transparency experiment focused on openness and literacy.
+
+</td>
+</tr>
 </table>
 
+</div>
+
 ---
 
-<footer align="center" style="margin-top:18px;">
-  <p style="color:#6b7280">“We don’t hack systems. We hack the impossible.” — Tawana Mohammadi</p>
-  <p style="font-size:0.9em;color:#94a3b8">Updated: 2025-10-27 · Modern research‑site layout</p>
-</footer>
+<!-- ANALYTICS -->
+<h2 id="analytics">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img alt="GitHub Stats — Tawana Mohammadi (TAwR00T)" src="https://github-readme-stats.vercel.app/api?username=TAwR00T&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff&icon_color=00bfff" height="160px"/>
+  <img alt="GitHub Streak — Tawana Mohammadi (TAwR00T)" src="https://github-readme-streak-stats.herokuapp.com/?user=TAwR00T&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+<p align="center">
+  <img alt="Profile summary — Tawana Mohammadi (TAwR00T)" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TAwR00T&theme=github_dark" />
+</p>
+
+---
+
+<!-- ACHIEVEMENTS -->
+<h2 id="achievements">🏆 Achievements & Community Impact</h2>
+
+<p align="center">
+  <img alt="GitHub Trophies — Tawana Mohammadi" src="https://github-profile-trophy.vercel.app/?username=TAwR00T&theme=algolia&no-frame=true&row=1&margin-w=10" />
+</p>
+
+<p align="center">
+  <img alt="Profile views counter — Tawana Mohammadi" src="https://komarev.com/ghpvc/?username=TAwR00T&label=Profile%20Views&color=00bfff&style=for-the-badge" />
+</p>
+
+---
+
+<!-- VISION -->
+<h2 id="vision">🎓 Vision</h2>
+
+> <strong>“AI should remain transparent, inclusive, and grounded in empathy.”</strong>  
+Through responsible design and education, I aim to make Artificial Intelligence a bridge — not a barrier — between humans and technology.
+
+---
+
+<!-- CONTACT / SIGNATURE -->
+<h2>✍️ Signature</h2>
+
+**Tawana Mohammadi**  
+*AI Researcher • Data Strategist • Educator*  
+<sub>Last updated: October 27, 2025</sub>
+
+<p align="center">
+  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:00bfff&height=120&section=footer" />
+</p>
