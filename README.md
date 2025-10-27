@@ -1,174 +1,162 @@
-<!-- ========================================= -->
-<!-- 🌌 TAWANA MOHAMMADI — PERSONAL RESEARCH SITE (README) -->
-<!-- ========================================= -->
+```markdown
+<!-- =================== -->
+<!--  TAWANA MOHAMMADI  -->
+<!--  Modern Research Site style README -->
+<!-- =================== -->
 
+<!-- HERO / Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001F3F,100:00BFFF&height=180&section=header&text=Tawana%20Mohammadi%20🚀&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Where%20Ethics%20Meets%20Intelligence" alt="Tawana Mohammadi"/>
+  <img alt="hero" src="https://capsule-render.vercel.app/api?type=wavy&color=0:001F3F,100:00BFFF&height=140&section=header&text=Tawana%20Mohammadi%20🚀&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">🚀 Tawana Mohammadi</h1>
-<h3 align="center">Cybersecurity Specialist | AI Researcher | Full-Stack Engineer | Tech Activist</h3>
+<p align="center"><strong>Cybersecurity Specialist • AI Researcher • Full‑Stack Engineer • Tech Activist</strong></p>
+<p align="center"><em>Where Ethics Meets Intelligence — طراحی مدرن، پژوهشی و حرفه‌ای</em></p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sentient%20Nexus-%F0%9F%91%80-00bfff?style=for-the-badge" alt="Sentient Nexus"/>
-  <img src="https://img.shields.io/badge/Harvard-(Future)-CC0000?style=for-the-badge" alt="Harvard Future"/>
-  <img src="https://img.shields.io/badge/11%2B%20yrs%20experience-🛡️-00bfff?style=for-the-badge" alt="Experience"/>
-</p>
+<!-- TWO-COLUMN LAYOUT (left: profile / quick links, right: main content) -->
+<table width="100%">
+  <tr valign="top">
+    <!-- LEFT COLUMN: Profile card -->
+    <td width="30%" style="padding-right:16px;">
+      <div align="center">
+        <!-- avatar -->
+        <img src="https://github.com/TAwR00T.png" alt="Tawana avatar" width="160" style="border-radius:14px; border:3px solid #e6f7ff"/>
+        <h3 style="margin:8px 0 4px;">تـاوانـا محمّدی</h3>
+        <p style="margin:0;color:#6b7280">TAwR00T · Cybersecurity & AI</p>
+      </div>
+
+      <!-- Quick badges -->
+      <p align="center" style="margin-top:12px;">
+        <img src="https://img.shields.io/badge/Sentient%20Nexus-Research-00bfff?style=for-the-badge" alt="Sentient Nexus"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Harvard-(Future)-CC0000?style=flat" alt="Harvard Future" />
+        <img src="https://img.shields.io/badge/11%2B%20yrs-Experience-00bfff?style=flat" alt="Experience" />
+      </p>
+
+      <!-- Contact & Profiles -->
+      <h4 style="margin-top:14px;">📡 کانال‌ها و نمایه‌ها</h4>
+      <ul>
+        <li>وب‌سایت: <a href="https://tawana.online">tawana.online</a></li>
+        <li>Medium: <a href="https://tawanamohammadi.medium.com">tawanamohammadi.medium.com</a></li>
+        <li>Google Scholar: <a href="https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en">پروفایل</a></li>
+        <li>ORCID: <a href="https://orcid.org/0009-0009-8106-5917">0009-0009-8106-5917</a></li>
+        <li>Reddit: <a href="https://www.reddit.com/user/Chemical-Courage6849/">u/Chemical‑Courage6849</a></li>
+        <li>Telegram: <a href="https://t.me/rahbarusd">@rahbarusd</a></li>
+      </ul>
+
+      <!-- Quick contact badges (replace email if you want it public) -->
+      <p align="center">
+        <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+      </p>
+
+      <!-- Small card: current focus -->
+      <div style="border-radius:10px;border:1px solid #e6eef8;padding:10px;margin-top:8px;background:linear-gradient(180deg,#ffffff,#f7fbff)">
+        <strong>🔭 در حال حاضر</strong>
+        <p style="margin:6px 0;">پژوهش روی سیستم‌های مبتنی بر ChatGPT، شفافیت داده و ابزارهای prompt engineering. مشارکت در پروژه‌های Bug Bounty و CTF.</p>
+      </div>
+    </td>
+
+    <!-- RIGHT COLUMN: Main content -->
+    <td width="70%" style="padding-left:16px;">
+      <!-- Short intro -->
+      <h3>🧠 درباره</h3>
+      <p>من پژوهشگر و آموزگار حوزهٔ هوش مصنوعی و امنیت هستم. مأموریت من ترکیب اخلاق، شفافیت داده و طراحی سیستم‌های AI انسانی‌محور است تا تکنولوژی ابزاری برای توانمندسازی افراد باشد.</p>
+
+      <!-- Core expertise cards -->
+      <h3 style="margin-top:18px;">⚙️ تخصص‌های محوری</h3>
+      <table width="100%" style="border-collapse:collapse;">
+        <tr>
+          <td style="padding:8px;vertical-align:top;width:50%;">
+            <strong>🔐 امنیت شبکه و دفاع</strong>
+            <ul>
+              <li>Intrusion Detection · PenTest · Network Forensics</li>
+              <li>Threat Intelligence · OWASP</li>
+            </ul>
+          </td>
+          <td style="padding:8px;vertical-align:top;width:50%;">
+            <strong>💻 Full‑Stack & Infra</strong>
+            <ul>
+              <li>Frontend: React, Next.js</li>
+              <li>Backend: Python (Django/Flask), PHP, Node.js</li>
+              <li>DevOps: Docker, CI/CD</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:8px;vertical-align:top;">
+            <strong>🧬 AI & Data</strong>
+            <ul>
+              <li>Deep Learning, Medical Imaging, NLP, MLOps</li>
+            </ul>
+          </td>
+          <td style="padding:8px;vertical-align:top;">
+            <strong>🛠 Hardware & Embedded</strong>
+            <ul>
+              <li>IoT security, Raspberry Pi, ARM, JTAG/UART</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Skills icons -->
+      <p align="center" style="margin-top:10px;">
+        <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,docker,git,github,flask,fastapi,postgres" alt="skills" />
+      </p>
+
+      <!-- Projects / Pins -->
+      <h3 style="margin-top:18px;">📚 پروژه‌های منتخب</h3>
+      <p>کارت‌های زیر به‌صورت پویا ریپوهای پین‌شده را نشان می‌دهند. اگر می‌خواهی ریپوی خاصی را نمایش دهم، نام آن را بفرست تا پین شود.</p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=marz-warp&theme=vision-friendly-dark" alt="marz-warp"/>
+        &nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=ChatGPT-Telegram-Bot&theme=vision-friendly-dark" alt="ChatGPT-Telegram-Bot"/>
+        &nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=chatgpt5-mri-case-study&theme=vision-friendly-dark" alt="case-study"/>
+      </p>
+      <ul>
+        <li><strong>ChatGPT Business Backup Guide</strong> — محافظت و آرشیو امن مکالمات تجاری (ارسال لینک ریپو/دِمو برای پیوست)</li>
+        <li><strong>PromptCraft Framework</strong> — ابزار آموزشی طراحی پرامپت‌های قابل تکرار</li>
+        <li><strong>AI Transparency Docs</strong> — مجموعه مستندات سیاست‌گذاری و شفافیت</li>
+      </ul>
+
+      <!-- Research / Publications -->
+      <h3 style="margin-top:18px;">📖 نشریات و منابع پژوهشی</h3>
+      <p>لیستی از مقالات و منابع پژوهشی در Google Scholar و Medium موجود است — لینک‌ها در سمت چپ قرار دارند. اگر DOI/PDF یا نام مقالات را ارسال کنی کارت دانلود/نمایش اضافه می‌شود.</p>
+
+      <!-- Widgets: GitHub stats + Trophies -->
+      <h3 style="margin-top:18px;">📊 آمار و دستاوردها</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=TAwR00T&show_icons=true&theme=vision-friendly-dark&count_private=true" width="48%" alt="stats"/>
+        &nbsp;
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAwR00T&theme=vision-friendly-dark" width="48%" alt="streak"/>
+      </p>
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=TAwR00T&theme=darkhub&no-frame=true" alt="trophies"/>
+      </p>
+
+      <!-- Responsible disclosure -->
+      <h3 style="margin-top:18px;">🛡️ اخلاق و مسئولیت‌پذیری</h3>
+      <p>هر گونه تست امنیتی تنها با مجوز کتبی انجام می‌شود. آسیب‌پذیری‌ها طبق فرایندِ responsible disclosure گزارش می‌شوند. برای همکاری پژوهشی/تست‌نفوذ آمادهٔ تنظیم MOU یا قرارداد هستم.</p>
+
+      <!-- CTA / Next actions -->
+      <div style="margin-top:16px;padding:12px;border-radius:10px;background:#f7fbff;border:1px solid #e6eef8">
+        <strong>تمایل داری این طراحی را روی README تو پیاده‌سازی کنم؟</strong>
+        <ul>
+          <li>من می‌توانم نسخهٔ آماده را در شاخهٔ جدید <code>readme/site-redesign</code> push کنم.</li>
+          <li>پیش از push: لطفاً ایمیل برای نمایش (یا تصمیم برای عدم نمایش)، و فهرست ریپوهایی که می‌خواهی پین شوند را بفرست.</li>
+        </ul>
+      </div>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-👁 Sentient Nexus  
-🔐 Cybersecurity | 💻 Code Architect | 🌐 Network & Hardware Systems | ⛓ Blockchain  
-🧠 AI & Deep Learning | 🩻 Medical Imaging | 🧬 Quantum Security  
-🧑‍💻 11+ yrs in cyber ops — from breaking locks to building encrypted dreams
-
----
-
-## 🌍 دربارهٔ من
-من یک پژوهشگر و توسعه‌دهندهٔ مستقل و خودآموز هستم که در تقاطعِ تکنولوژی، فعالیت اجتماعی و اطلاعات کار می‌کنم. درِ فعلیِ راهِ آتی من: Harvard University (Future). مأموریت: ترکیب هوش مصنوعی، امنیت و اخلاق برای طراحیِ سیستم‌های آینده‌محور و انسانی.
-
----
-
-## 🧠 تخصص‌های محوری
-- 🔐 Cybersecurity & Network Defense — Intrusion Detection, PenTest, Network Forensics, Threat Intel  
-- 💻 Full-Stack Engineering — Frontend: React, Next.js | Backend: PHP, Python (Django/Flask), Node.js  
-- 🌐 Hardware & Infrastructure — Embedded, IoT Security, Raspberry Pi, ARM  
-- 🧬 AI & Data Science — Deep Learning, Medical Imaging, NLP, MLOps  
-- 🧾 Technical Writing & OSINT — Papers, Docs, Darknet Journalism
-
----
-
-## 🧰 جعبه‌ابزار (Tech Toolbox)
-| دسته | ابزارها و فریم‌ورک‌ها |
-|---|---|
-| Languages | Python, JavaScript, PHP, Bash, SQL, C++, Assembly |
-| Frontend | React, HTML5, CSS3, Tailwind, Bootstrap |
-| Backend | Flask, Django, Laravel, Node.js, Express |
-| Cybersecurity | Kali, Wireshark, Metasploit, Burp Suite, Nmap |
-| DevOps | Docker, GitHub Actions, Git, CI/CD |
-| Hardware | Arduino, Raspberry Pi, UART, JTAG |
-| AI/ML | PyTorch, TensorFlow, OpenCV, Keras, Scikit-Learn |
-
----
-
-### 📡 لینک‌ها و نمایه‌ها (All links extracted)
-- 🌐 Website: https://tawana.online  
-- ✍️ Medium: https://tawanamohammadi.medium.com  
-- 📚 ORCID: https://orcid.org/0009-0009-8106-5917  
-- 🔍 Google Scholar: https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en  
-- 🎓 Affiliation: (Future) Harvard University  
-- 🧪 Reddit: https://www.reddit.com/user/Chemical-Courage6849/  
-- 📟 Telegram: https://t.me/rahbarusd
-
-(تمام لینک‌های بالا از بلوک متنی شما استخراج و در این بخش قرار گرفتند. اگر لینک دیگری هست که جاافتاده بفرست تا اضافه کنم.)
-
----
-
-## 📊 ویجت‌ها و آمار گیت‌هاب
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAwR00T&show_icons=true&theme=vision-friendly-dark&count_private=true" width="47%" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAwR00T&theme=vision-friendly-dark" width="47%" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAwR00T&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
----
-
-## 🧪 پژوهش‌ها و پروژه‌های منتخب
-کارت‌های مخزن‌های منتخب به صورت پویا قرار گرفته‌اند — در صورتی که تمایل داری نام یا لینک مستقیمِ هر ریپو را پین کنم بگو تا کارت‌ها دقیقاً با لینک‌های رسمی نمایش داده شوند.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=marz-warp&theme=vision-friendly-dark" alt="marz-warp"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=ChatGPT-Telegram-Bot&theme=vision-friendly-dark" alt="ChatGPT-Telegram-Bot"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TAwR00T&repo=chatgpt5-mri-case-study&theme=vision-friendly-dark" alt="chatgpt5-mri-case-study"/>
-</p>
-
-- ChatGPT Business Backup Guide — محافظت و آرشیو امن مکالمات تجاری با ChatGPT (لینک/ریپو را ارسال کن).  
-- PromptCraft Framework — مجموعه آموزشی طراحی پرامپت‌ها.  
-- AI Transparency Docs — چارچوب‌های سیاست‌گذاری و شفافیت AI.  
-- PanbehNet AI Portal — آزمایش شبکه‌ای برای شفافیت داده و تحلیل.
-
----
-
-## 📚 نشریات و نوشته‌ها
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-View%20Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-  &nbsp;
-  <a href="https://tawanamohammadi.medium.com"><img src="https://img.shields.io/badge/Medium-Read%20Stories-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-</p>
-
-(لینک مقالات یا DOI/PDF هر نوشته را ارسال کن تا لیست دقیق‌تر شود و کارت دانلود/نمایش اضافه گردد.)
-
----
-
-## 🏆 افتخارات و آمار
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TAwR00T&theme=algolia&no-frame=true&row=1&margin-w=10" alt="Trophies"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TAwR00T&label=Profile%20Views&color=00bfff&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-- فعالیت در پروژه‌های آموزشیِ متن‌باز و انتشار منابع برای افزایش سواد AI.  
-- همکاری در پروژه‌های OSINT و پژوهش‌های امنیتی.
-
-(اگر مدرک، جایزه یا citation مهمی داری، بگو تا بخش افتخارات را به‌روز کنم.)
-
----
-
-## 🛡️ اخلاق و مسئولیت‌پذیری در هک
-من به هک اخلاقی و تست‌ نفوذ علاقه‌مندم — اما فقط با مجوز و در چارچوب قانونی.  
-قواعد همکاری:
-- مجوز کتبی یا توافق‌نامه برای انجام تست لازم است.  
-- گزارش‌دهی آسیب‌پذیری مطابق responsible disclosure انجام می‌شود.  
-- هر همکاری پژوهشی بر پایهٔ قرارداد یا MOU انجام خواهد شد.
-
----
-
-## ⚙️ اتوماسیون (اختیاری)
-می‌توانم برای README اتوماسیون‌های زیر را اضافه کنم:
-- RSS → README (آخرین پست‌ها از Medium یا بلاگ) با GitHub Actions  
-- ویجتِ آخرین توییت‌ها / وضعیت آنلاین (با توکن اگر بخواهی)  
-- استخراج خودکارِ فهرست مقالات از Google Scholar (نیاز به اسکریپت یا API)
-
-اگر کدام را می‌خواهی، بگو تا فایل‌های GitHub Action و اسکریپت اولیه را بسازم.
-
----
-
-## 📬 تماس و CV
-<p align="center">
-  [![Website](https://img.shields.io/badge/Website-tawana.online-00bfff?style=for-the-badge&logo=internet-explorer)](https://tawana.online)
-  &nbsp;
-  [![Medium](https://img.shields.io/badge/Medium-tawanamohammadi.medium.com-000000?style=for-the-badge&logo=medium)](https://tawanamohammadi.medium.com)
-  &nbsp;
-  [![Google Scholar](https://img.shields.io/badge/Scholar-View-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en)
-  &nbsp;
-  [![ORCID](https://img.shields.io/badge/ORCID-0009-0009-8106-5917-70B865?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0009-8106-5917)
-  &nbsp;
-  [![Telegram](https://img.shields.io/badge/Telegram-@rahbarusd-2AABEE?style=for-the-badge&logo=telegram)](https://t.me/rahbarusd)
-</p>
-
-- ایمیل: (اگر می‌خواهی منتشر شود، آدرس را اینجا قرار بده تا اضافه کنم)  
-- CV: اگر فایل CV را آپلود کنی، لینک دانلود در این بخش اضافه می‌شود.
-
----
-
-### 🎓 چشم‌انداز
-> «We don’t hack systems. We hack the impossible.» — Tawana Mohammadi  
-AI should remain transparent, inclusive, and grounded in empathy. طراحی مسئولانه و آموزشِ مؤثر هدفِ من است تا AI به پلی بین انسان‌ها و فناوری تبدیل شود.
-
----
-
-### ✍️ امضا
-**Tawana Mohammadi**  
-Cybersecurity Specialist • AI Researcher • Full-Stack Engineer • Tech Activist  
-📅 Updated: 2025-10-27
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00BFFF&height=120&section=footer" alt="footer"/>
-</p>
+<footer align="center" style="margin-top:18px;">
+  <p style="color:#6b7280">“We don’t hack systems. We hack the impossible.” — Tawana Mohammadi</p>
+  <p style="font-size:0.9em;color:#94a3b8">Updated: 2025-10-27 · Designed for a clean, modern research‑site look</p>
+</footer>
+```
